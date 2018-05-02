@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input > Text should render changes 1`] = `
+<input
+  data-testid="my-input"
+  type="text"
+  value="hello"
+/>
+`;
+
+exports[`Input > Text should render changes 2`] = `
+<input
+  data-testid="my-input"
+  type="text"
+  value="hello"
+/>
+`;
